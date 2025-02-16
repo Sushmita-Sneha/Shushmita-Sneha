@@ -1,4 +1,4 @@
-(https://github.com/Sushmita-Sneha/Sushmita-Sneha/blob/main/code.png)
+!I'm Sushmita Das Sneha(https://github.com/Sushmita-Sneha/Sushmita-Sneha/blob/main/sneha.png)
 
 <h1 align="center">Hi 👋, I'm Sushmita Das Sneha</h1>
 <h3 align="center">Frontend Web Designer | Speed Learner</h3>
