@@ -1,4 +1,4 @@
-![I am Sushmita-Sneha](https://github.com/Sushmita-Sneha/Sushmita-Sneha/blob/main/code.png)
+(https://github.com/Sushmita-Sneha/Sushmita-Sneha/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Sushmita Das Sneha</h1>
 <h3 align="center">Frontend Web Designer | Speed Learner</h3>
