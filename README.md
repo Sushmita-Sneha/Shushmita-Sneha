@@ -1,5 +1,3 @@
-!I'm Sushmita Das Sneha(https://github.com/Sushmita-Sneha/Shushmita-Sneha/blob/main/README.md)
-
 <h1 align="center">Hi 👋, I'm Sushmita Das Sneha</h1>
 <h3 align="center">Frontend Web Designer | Speed Learner</h3>
 <h4 align="center">Student at Hablu Programmer</h4>
